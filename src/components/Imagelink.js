@@ -18,7 +18,4 @@ const Imagelink = () => {
     </div>
   );
 }
-
-
-
 export default Imagelink;
